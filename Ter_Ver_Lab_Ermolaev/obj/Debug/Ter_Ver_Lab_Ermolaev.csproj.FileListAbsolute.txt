@@ -1,0 +1,12 @@
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\bin\Debug\Ter_Ver_Lab_Ermolaev.exe.config
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\bin\Debug\Ter_Ver_Lab_Ermolaev.exe
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\bin\Debug\Ter_Ver_Lab_Ermolaev.pdb
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\obj\Debug\Ter_Ver_Lab_Ermolaev.csproj.AssemblyReference.cache
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\obj\Debug\Ter_Ver_Lab_Ermolaev.Form1.resources
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\obj\Debug\Ter_Ver_Lab_Ermolaev.Properties.Resources.resources
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\obj\Debug\Ter_Ver_Lab_Ermolaev.csproj.GenerateResource.cache
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\obj\Debug\Ter_Ver_Lab_Ermolaev.csproj.CoreCompileInputs.cache
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\obj\Debug\Ter_Ver_Lab_Ermolaev.exe
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\obj\Debug\Ter_Ver_Lab_Ermolaev.pdb
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\obj\Debug\Ter_Ver_Lab_Ermolaev.Form2.resources
+C:\Users\ermol\source\repos\Ter_Ver_Lab_Ermolaev\obj\Debug\Ter_Ver_Lab_Ermolaev.Form3.resources
